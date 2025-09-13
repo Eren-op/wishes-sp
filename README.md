@@ -1,0 +1,2 @@
+# wishes-sp
+core wishes
